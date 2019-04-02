@@ -1,2 +1,2 @@
-from . import rec
-from . import sort
+from . import recursion
+from . import sorting
